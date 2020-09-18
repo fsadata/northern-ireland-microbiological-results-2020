@@ -1,0 +1,185 @@
+Lough,RepresentativeMonitoringPoints,SampleDate,Species,Category,EColi,CurrentStatus,Comments
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-01-06,Mussels,B,450,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-02-02,Mussels,C,7000,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-03-02,Mussels,B,2300,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-04-07,Mussels,C,11000,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-05-04,Mussels,A,68,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-06-01,Mussels,B,780,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-07-06,Mussels,C,11000,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-08-03,Mussels,A,78,Open,
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15 and B5 AFFNI96",2020-09-01,Mussels,B,490,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-01-20,Mussels,B,3300,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-02-17,Mussels,C,4900,Open,Outwith investigatory email sent 20/02/2020
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-03-16,Mussels,B,450,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-04-19,Mussels,A,20,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-05-18,Mussels,A,20,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-06-15,Mussels,A,<18,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-07-20,Mussels,A,<18,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-08-17,Mussels,B,330,Open,
+Belfast,"RMP2 - B6 - AFFNI56A - represents B10 AFFNI28, B7 AFFNI60A and B11 AFFNI97",2020-09-14,Mussels,A,68,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-01-06,Mussels,B,2300,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-02-02,Mussels,B,1300,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-03-02,Mussels,C,4900,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-04-07,Mussels,B,2300,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-05-04,Mussels,B,3300,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-06-01,Mussels,A,<18 ,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-07-06,Mussels,A,220,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-08-03,Mussels,A,68,Open,
+Belfast,RMP3 - B3 - AFFNI50 - represents B8 AFFNI37 and B9 AFFNI85,2020-09-01,Mussels,B,490,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-01-20,Mussels,A,130,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-02-17,Mussels,C,7900,Open,Outwith investigatory email sent 20/02/2020
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-03-16,Mussels,A,130,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-04-19,Mussels,A,<18,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-05-18,Mussels,A,110,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-06-15,Mussels,A,20,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-07-20,Mussels,A,<18,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-08-17,Mussels,A,<18,Open,
+Belfast,RMP4 - B12 - AFFNI54 - represents B14 AFFNI9,2020-09-14,Mussels,A,20,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-01-06,Mussels,C,4900,Open,Outwith investigatory email sent 09/01/2020
+Belfast,RMP5 - B20 - AFFNI53,2020-02-02,Mussels,A,110,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-03-02,Mussels,B,1100,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-04-07,Mussels,A,45,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-05-04,Mussels,A,45,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-06-01,Mussels,A,<18,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-07-06,Mussels,B,1700,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-08-03,Mussels,B,330,Open,
+Belfast,RMP5 - B20 - AFFNI53,2020-09-01,Mussels,B,780,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-01-20,Mussels,B,780,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-02-17,Mussels,C,7900,Open,Outwith investigatory email sent 20/02/2020
+Belfast,RMP6 - B24 - AFFNI56B,2020-03-16,Mussels,A,170,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-04-19,Mussels,A,<18,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-05-18,Mussels,A,78,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-06-15,Mussels,A,<18,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-07-20,Mussels,B,490,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-08-17,Mussels,A,140,Open,
+Belfast,RMP6 - B24 - AFFNI56B,2020-09-14,Mussels,A,78,Open,
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-01-28,Mussels,B,2300,Open,
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-02-24,Mussels,C,7000,Open,
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-03-23,Mussels,C,13000,Open,
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-04-21,Mussels,A,<18,Open,
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-05-19,Mussels,A,220,Open,Sample submitted one day earlier than scheduled
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-06-15,Mussels,A,110,Open,
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-07-21,Mussels,B,330,Open,Sample submitted one day earlier than scheduled
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-08-18,Mussels,C,4900,Open,Outwith investigatory email issued 21/08/2020
+Carlingford,NARROW WATER  Production Area 1 (NW Wild Fishery) - ,2020-09-07,Mussels,B,330,Open,
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-01-28,Mussels,B,780,Open,
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-02-24,Mussels,C,4900,Open,Outwith investigatory email sent 27/02/2020
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-03-23,Mussels,B,780,Open,
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-04-22,Mussels,,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-05-20,Mussels,,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-06-15,Mussels,,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-07-21,Mussels,A,<18,Open,Sample submitted one day earlier than scheduled
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-08-18,Mussels,B,330,Open ,
+Carlingford," Production Area 2 - C1 - AFFNI 27 - represents C2 AFFNI74, C3 AFFNI98 and C4 AFFNI68",2020-09-07,Mussels,B,330,Open,
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-01-28,Oysters,A,78,Open,
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-02-24,Oysters,A,130,Open,
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-03-23,Oysters,A,220,Open,
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-04-21,Oysters,A,45,Open,
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-05-19,Oysters,A,<18,Open,Sample submitted one day earlier than scheduled
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-06-15,Oysters,A,<18,Open,
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-07-21,Oysters,A,18,Open,Sample submitted one day earlier than scheduled
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-08-18,Oysters,A,220,Open,
+Carlingford," Production Area 4 C7 - AFFNI 73 - represents C9 AFFNI39, C15 AFFNI89 and C17 AFFNI92",2020-09-07,Oysters,B,330,Open,
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-01-28,Oysters,A,20,Open,
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-02-24,Oysters,A,110,Open,
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-03-23,Oysters,A,130,Open,
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-04-21,Oysters,A,45,Open,
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-05-19,Oysters,A,130,Open,Sample submitted one day earlier than scheduled
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-06-15,Oysters,A,<18,Open,
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-07-21,Oysters,A,110,Open,Sample submitted one day earlier than scheduled
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-08-18,Oysters,B,310,Open,
+Carlingford,Production Area 6  C11 - AFFNI 84,2020-09-07,Oysters,A,68,Open,
+Dundrum Bay,DB1 - AFFNI95A,2020-01-06,Oysters,B,490,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-02-03,Oysters,B,490,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-03-02,Oysters,B,330,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-03-30,Oysters,A,220,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-04-06,Oysters,A,78,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-05-04,Oysters,A,45,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-06-01,Oysters,A,20,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-07-08,Oysters,B,330,OPEN,
+Dundrum Bay,DB1 - AFFNI95A,2020-08-04,Oysters,B,330,OPEN,
+Dundrum Bay,DB1 - AFFNI95A,2020-09-07,Oysters,B,780,OPEN,
+Dundrum Bay,DB2 - AFFNI95B,2020-01-20,Mussels,B,2100,OPEN ,
+Dundrum Bay,DB2 - AFFNI95B,2020-03-30,Mussels,B,1700,OPEN ,
+Dundrum Bay,DB2 - AFFNI95B,2020-04-06,Mussels,A,220,OPEN ,
+Dundrum Bay,DB2 - AFFNI95B,2020-04-27,Mussels,B,1100,OPEN ,
+Dundrum Bay,DB2 - AFFNI95B,2020-05-27,Mussels,B,330,OPEN ,
+Dundrum Bay,DB2 - AFFNI95B,2020-06-29,Mussels,C,35000,OPEN ,
+Dundrum Bay,DB2 - AFFNI95B,2020-07-27,Mussels,B,3300,OPEN,
+Dundrum Bay,DB2 - AFFNI95B,2020-08-24,Mussels,Prohibited,"160,000",CLOSED,"Closure notice issued on 26/08/2020. This bed will remain closed until two samples below 46,000 MPN/100g are received. "
+Dundrum Bay,DB1 - AFFNI95A,2020-01-06,Mussels,,,OPEN ,Missed sample. Due to high tides the sampling officers were unable to access the mussel trestles. Sample rescheduled for 15 January 2020. 
+Dundrum Bay,DB1 - AFFNI95A,2020-01-15,Mussels,B,490,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-02-03,Mussels,B,330,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-03-02,Mussels,B,490,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-03-30,Mussels,A,68,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-05-04,Mussels,A,170,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-06-01,Mussels,A,18,OPEN ,
+Dundrum Bay,DB1 - AFFNI95A,2020-07-08,Mussels,B,490,OPEN,
+Dundrum Bay,DB1 - AFFNI95A,2020-08-04,Mussels,B,330,OPEN,
+Dundrum Bay,DB1 - AFFNI95A,2020-09-07,Mussels,B,3300,OPEN,
+Larne Lough,RMP 1 - L5 - AFFNI21B,2020-01-07,Mussels (Mussels represent Oysters in this bed),A,110,DORMANT 01/01/2020,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-01-07,Oysters,A,20,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-02-04,Oysters,A,<18,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-03-03,Oysters,A,<18,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-03-31,Oysters,A,20,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-05-06,Oysters,A,20,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-06-09,Oysters,A,20,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-07-07,Oysters,A,45,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-08-04,Oysters,A,170,OPEN,
+Larne Lough,RMP 1 - L3 - AFFNI88,2020-09-08,Oysters,A,110,OPEN,
+Killough,K1 AFFNI18,2020-01-20,Oysters,B,2300,OPEN,
+Killough,K1 AFFNI18,2020-02-17,Oysters,B,330,OPEN,
+Killough,K1 AFFNI18,2020-03-16,Oysters,B,1700,OPEN,
+Killough,K1 AFFNI18,2020-04-20,Oysters,B,330,OPEN,
+Killough,K1 AFFNI18,2020-05-04,Oysters,B,330,OPEN,Additional sample taken as harvesting has resumed.
+Killough,K1 AFFNI18,2020-05-19,Oysters,B,490,OPEN,
+Killough,K1 AFFNI18,2020-06-15,Oysters,B,690,OPEN,
+Killough,K1 AFFNI18,2020-07-08,Oysters,B,330,OPEN,
+Killough,K1 AFFNI18,2020-08-04,Oysters,B,490,OPEN,
+Killough,K1 AFFNI18,2020-09-07,Oysters,B,780,OPEN,
+Killough,K1 AFFNI18,2020-03-09,Mussels,Dormant,2300,DORMANT 01/01/2020,Quarterly microbiological sample. 
+Killough,K1 AFFNI18,2020-05-19,Mussels,Dormant,450,DORMANT 01/01/2020,Quarterly microbiological sample. 
+Killough,K1 AFFNI18,2020-09-07,Mussels,Dormant,2200,DORMANT 01/01/2020,Quarterly microbiological sample. 
+Lough Foyle,Production Area 3 ,2020-01-08,Mussels (represents oysters in the fishery),A,93,Open,
+Lough Foyle,Production Area 3 ,2020-02-04,Mussels (represents oysters in the fishery),B,1100,Open,
+Lough Foyle,Production Area 3 ,2020-03-02,Mussels (represents oysters in the fishery),B,1300,Open,
+Lough Foyle,Production Area 3 ,2020-04-07,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 3 ,2020-05-05,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 3 ,2020-06-03,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 3 ,2020-07-07,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 3 ,2020-07-28,Mussels (represents oysters in the fishery),B,780,Open,
+Lough Foyle,Production Area 3 ,2020-08-05,Mussels (represents oysters in the fishery),A,130,Open,Sampling delayed due to bad weather
+Lough Foyle,Production Area 3 ,2020-09-08,Mussels (represents oysters in the fishery),B,490,Open,
+Lough Foyle,Production Area 4 ,2020-01-08,Mussels (represents oysters in the fishery),B,450,Open,
+Lough Foyle,Production Area 4 ,2020-02-04,Mussels (represents oysters in the fishery),B,450,Open,
+Lough Foyle,Production Area 4 ,2020-03-02,Mussels (represents oysters in the fishery),C,7900,Open,Outwith investigatory email sent 05/03/2020
+Lough Foyle,Production Area 4 ,2020-04-07,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 4 ,2020-05-05,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 4 ,2020-06-03,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 4 ,2020-07-07,Mussels (represents oysters in the fishery),,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Lough Foyle,Production Area 4 ,2020-07-28,Mussels (represents oysters in the fishery),B,780,Open,
+Lough Foyle,Production Area 4 ,2020-08-05,Mussels (represents oysters in the fishery),A,78,Open,Sampling delayed due to bad weather
+Lough Foyle,Production Area 4 ,2020-09-08,Mussels (represents oysters in the fishery),A,170,Open,
+Strangford Lough,S2 - AFFNI42,2020-01-06,Mussels,A,45,Open,
+Strangford Lough,S2 - AFFNI42,2020-02-03,Mussels,A,20,Open,
+Strangford Lough,S2 - AFFNI42,2020-03-02,Mussels,A,170,Open,
+Strangford Lough,S2 - AFFNI42,2020-03-30,Mussels,A,220,Open,
+Strangford Lough,S2 - AFFNI42,2020-04-27,Mussels,,,Open,Sample due 27/04/2020 delayed and rearranged for 30/04/2020 as insufficient amount of mussels collected for laboratory testing. 
+Strangford Lough,S2 - AFFNI42,2020-04-30,Mussels,A,20,Open,
+Strangford Lough,S2 - AFFNI42,2020-05-26,Mussels,A,<18,Open,
+Strangford Lough,S2 - AFFNI42,2020-06-22,Mussels,A,40,Open,
+Strangford Lough,S2 - AFFNI42,2020-07-21,Mussels,A,78,Open,
+Strangford Lough,S2 - AFFNI42,2020-08-17,Mussels,B,2300,Open,Outwith investigatory email issued 20/08/2020 
+Strangford Lough,S2 - AFFNI42,2020-09-15,Mussels,C,7000,Open,Outwith investigatory email issued 17/09/2020
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-01-06,Oysters,,,Open,Due to high tides it was not possible for the sampling officer to access the site and retrieve samples this week. Sample rearranged for 13 January 2020. 
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-01-14,Oysters,A,130,Open,
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-02-03,Oysters,A,45,Open,
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-03-02,Oysters,A,<18,Open,
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-03-30,Oysters,,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-04-27,Oysters,,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-05-25,Oysters,,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-06-22,Oysters,,,Open,"Due to the COVID-19 virus outbreak, sampling has been suspended until further notice."
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-07-21,Oysters,A,78,Open,
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-08-17,Oysters,B ,330,Open,
+Strangford Lough,S7 - AFFNI76 - represents S6 AFFNI93,2020-09-14,Oysters,A,20,Open,
+Strangford Lough,S7 - AFFNI76,,Mussels,,,DE-CLASSIFIED 01/01/2020,
